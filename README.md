@@ -31,7 +31,7 @@ Execute the program using runserver command.
     <BODY>
         <img src="logo.png" width="1100" height="150">
         <table border="2" cellspacing="10" cellpadding="5">
-            <caption>SLOT TIME TABLE-PRIYAADARSHINI K(23000629)</caption>
+            <caption>SLOT TIME TABLE-SARATHI 23013741</caption>
                     <tr>
                           <th bgcolor="cyan"><B>DAY/TIME</th>
                           <th bgcolor="cyan"><B>Monday</th>
